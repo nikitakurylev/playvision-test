@@ -17,7 +17,7 @@ namespace Dice
         [SerializeField] private float minVelocity, maxVelocity;
 
         /// <summary>
-        /// Симулирует бросок костей и меняет грани так, чтобы выпали заданные числа
+        /// Симулирует бросок костей и сохраняет его в историю перемещения костей, а потом меняет грани так, чтобы выпадали заданные числа
         /// </summary>
         /// <param name="numbers">Числа, которые должны выпасть</param>
         /// <exception cref="ArgumentOutOfRangeException">Выдаётся, если чисел больше, чем костей, предоставленных DiceHolder</exception>

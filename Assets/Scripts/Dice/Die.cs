@@ -8,6 +8,9 @@ using Utility;
 
 namespace Dice
 {
+    /// <summary>
+    /// Управляет логикой кости и хранит историю её перемещения
+    /// </summary>
     [RequireComponent(typeof(Rigidbody))]
     public class Die : MonoBehaviour
     {

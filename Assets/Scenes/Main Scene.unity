@@ -540,7 +540,7 @@ Transform:
   m_GameObject: {fileID: 363632794}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.3914816, y: 1.3862708, z: 1.6854994}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -806,7 +806,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4858101255650983528, guid: 11e6865f4be8b98469d5637761358d46, type: 3}
       propertyPath: m_Name
-      value: Dice (1)
+      value: Die 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -952,7 +952,7 @@ Transform:
   m_GameObject: {fileID: 1024212863}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.3914816, y: -1.3862708, z: -1.6854994}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1159,7 +1159,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4858101255650983528, guid: 11e6865f4be8b98469d5637761358d46, type: 3}
       propertyPath: m_Name
-      value: Dice (2)
+      value: Die 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1287,7 +1287,7 @@ Transform:
   m_GameObject: {fileID: 1888819831}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.3914816, y: -1.3862708, z: -1.6854994}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1460,7 +1460,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4858101255650983528, guid: 11e6865f4be8b98469d5637761358d46, type: 3}
       propertyPath: m_Name
-      value: Dice
+      value: Die 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
